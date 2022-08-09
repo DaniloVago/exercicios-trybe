@@ -3,4 +3,7 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
-Desenvolvimento Pessoal
+- Desenvolvimento Pessoal
+- Soft Skills
+- Hard Skills
+
