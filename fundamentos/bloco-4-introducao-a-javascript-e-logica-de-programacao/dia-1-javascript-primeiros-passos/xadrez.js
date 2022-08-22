@@ -1,4 +1,4 @@
-let nome = rainha;
+let nome = "rainha";
 
 
 switch (nome) {
